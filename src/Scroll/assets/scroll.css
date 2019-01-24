@@ -130,8 +130,22 @@ p {
 .page2 {
   /*background-color: #72ADA1  ;*/
   background-image:url("./tests.jpg");
-  background-size: 1600px 3000px;
-  height: 3000px;
+  background-size: 1600px 3300px;
+  height: 3300px;
+  width:100%;
+}
+.page3 {
+  /*  background-color: #19436E;*/
+  background-image:url("./page1.jpg");
+  background-size: 100% 1900px;
+  height: 1900px;
+  width:100%;
+}
+.page4 {
+  /*background-color: #72ADA1  ;*/
+  background-image:url("./tests.jpg");
+  background-size: 1600px 3300px;
+  height: 1600px;
   width:100%;
 }
 .home-title {
@@ -171,6 +185,13 @@ p {
   height: 80px;
   background-color: #E1FF9A;
   margin-top: 30px;
+  border-radius: 4px;
+}
+.demo-content3 {
+  margin: 0 auto;
+  width: 50vw;
+  height: 80px;
+  margin-bottom: 10px;
   border-radius: 4px;
 }
 .page-title p {

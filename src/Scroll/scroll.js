@@ -9,6 +9,7 @@ import Face from './face.jpg'
 import Fade from 'react-reveal/Fade';
 import TimeLine from '../TimeLine.js'
 import Bar from '../bar.js'
+import Gallery from '../Gallery/gallery.js'
 
 const ScrollOverPack = ScrollAnim.OverPack;
 
@@ -39,13 +40,13 @@ function Demo() {
             replay
             playScale="50vh"
         >
-            <TweenOne className="tween-one" key="0" animation={{ opacity: 1 }}>
+            <TweenOne className="tween-one" key="1" animation={{ opacity: 1 }}>
                 <div className="page-title" key="title">
                     <p>개발 능력</p>
                 </div>
             </TweenOne>
             <QueueAnim key="1">
-                <TweenOne className="tween-one" key="0" animation={{ opacity: 1 }}>
+                <TweenOne className="tween-one" key="2" animation={{ opacity: 1 }}>
                     <Fade>
                         c/c++
                         <div key="0" className="demo-content" >
@@ -81,34 +82,40 @@ function Demo() {
             className="page2"
             appear={false}
         >
-            <TweenOne className="tween-one" key="0" animation={{ opacity: 1 }}>
+            <QueueAnim key="1">
+            <TweenOne className="tween-one" key="3" animation={{ opacity: 1 }}>
                 <div className="page-title" key="title">
                     <p>프로젝트</p>
                 </div>
             </TweenOne>
-
-            <Photo/>
+                <TweenOne className="tween-one" key="4" animation={{ opacity: 1 }}>
+                    <Photo/>
+                </TweenOne>
+            </QueueAnim>
         </ScrollOverPack>
 
         <ScrollOverPack
-            className="pack-page page1"
+            className="pack-page page3"
             always={false}
             id="page2"
         >
-            <TweenOne className="tween-one" key="0" animation={{ opacity: 1 }}>
+            <QueueAnim key="1">
+            <TweenOne className="tween-one" key="5" animation={{ opacity: 1 }}>
                 <div className="page-title" key="title">
                     <p>활동 이력</p>
                 </div>
             </TweenOne>
-            <TimeLine/>
+                <TimeLine/>
+            </QueueAnim>
         </ScrollOverPack>
 
         <ScrollOverPack
             id="page3"
-            className="pack-page page3"
+            className="pack-page page4"
             style={{ backgroundColor: '#174270' }}
             playScale={0.8}
         >
+            <QueueAnim key="1">
             <TweenOne
                 animation={{ opacity: 1 }}
                 style={{ opacity: 0 }}
@@ -128,6 +135,10 @@ function Demo() {
                 key="1"
                 style={{ transform: 'translateY(100px)', opacity: 0 }}
             />
+                <div key="0" className="demo-content3" >
+                    <Gallery/>
+                </div>
+            </QueueAnim>
         </ScrollOverPack>
     </div>);
 }
