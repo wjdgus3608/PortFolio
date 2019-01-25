@@ -46,7 +46,7 @@ class Gallery extends React.Component {
             {
                 original: image7,
                 thumbnail: image7,
-                description:"교내 가요제 출전"
+                description:"교내 가요제 참가"
             }
         ]
 
