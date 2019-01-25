@@ -17,10 +17,12 @@ const ScrollOverPack = ScrollAnim.OverPack;
 function Demo() {
     return (<div>
         <div className="pack-page page0">
-            <QueueAnim className="home-title">
+            <QueueAnim key="0">
+                <TweenOne className="tween-one" key="0" animation={{ opacity: 1 }}>
                 <div className="page-title" key="title">
                     <p>Intro</p>
                 </div>
+                </TweenOne>
                 <img src={Face} width="300vw" height="400vh" />
                 <div className="page-description" key="c">
                     <TweenOne className="tween-one" key="0" animation={{ opacity: 1 }}>
