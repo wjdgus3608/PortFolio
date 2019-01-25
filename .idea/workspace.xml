@@ -4,10 +4,8 @@
     <list default="true" id="742857ad-e0be-4e4b-8354-e01730e10265" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PhtoGridExample/photo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/PhtoGridExample/photo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PhtoGridExample/photo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/PhtoGridExample/photo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Scroll/assets/scroll.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scroll/assets/scroll.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Scroll/scroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scroll/scroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="105">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
               <folding>
                 <element signature="e#64#100#0" expanded="true" />
               </folding>
@@ -78,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            <state relative-caret-position="-67">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -187,20 +185,20 @@
         <option value="$PROJECT_DIR$/src/FadeExample.js" />
         <option value="$PROJECT_DIR$/src/bar.js" />
         <option value="$PROJECT_DIR$/node_modules/react-sweet-progress/lib/style.css" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/TimeLine.js" />
         <option value="$PROJECT_DIR$/src/Gallery/gallery.js" />
         <option value="$PROJECT_DIR$/src/PhtoGridExample/photo.css" />
         <option value="$PROJECT_DIR$/src/PhtoGridExample/photo.js" />
         <option value="$PROJECT_DIR$/src/Scroll/scroll.js" />
         <option value="$PROJECT_DIR$/src/Scroll/assets/scroll.css" />
+        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="96" />
-    <option name="y" value="580" />
+    <option name="x" value="409" />
+    <option name="y" value="206" />
     <option name="width" value="1141" />
     <option name="height" value="655" />
   </component>
@@ -222,31 +220,6 @@
               <item name="port" type="b2602c69:ProjectViewProjectNode" />
               <item name="port" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="port" type="b2602c69:ProjectViewProjectNode" />
-              <item name="port" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Gallery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="port" type="b2602c69:ProjectViewProjectNode" />
-              <item name="port" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PhtoGridExample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="port" type="b2602c69:ProjectViewProjectNode" />
-              <item name="port" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Scroll" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="port" type="b2602c69:ProjectViewProjectNode" />
-              <item name="port" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Scroll" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -303,15 +276,15 @@
       <workItem from="1548304559232" duration="2315000" />
       <workItem from="1548306909466" duration="2804000" />
       <workItem from="1548339444080" duration="12369000" />
-      <workItem from="1548395357166" duration="8632000" />
+      <workItem from="1548395357166" duration="10554000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74026000" />
+    <option name="totallyTimeSpent" value="75948000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="96" y="580" width="1141" height="655" extended-state="0" />
+    <frame x="409" y="206" width="1141" height="655" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2076992" />
@@ -421,16 +394,6 @@
     <entry file="file://$PROJECT_DIR$/src/Scroll/assets/tests.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding>
-            <element signature="e#64#100#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -503,10 +466,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#64#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="-67">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
