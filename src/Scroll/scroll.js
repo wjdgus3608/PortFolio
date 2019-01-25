@@ -19,7 +19,7 @@ function Demo() {
         <div className="pack-page page0">
             <QueueAnim className="home-title">
                 <div className="page-title" key="title">
-                    <p>About this developer</p>
+                    <p>Intro</p>
                 </div>
                 <img src={Face} width="300vw" height="400vh" />
                 <div className="page-description" key="c">
@@ -27,7 +27,7 @@ function Demo() {
                         <Fade>
                             한 분야의 특기만을 내세울수 있는 '자신감'이 아닌 '부족함'에서 오는 배움의 자세로,<br/>
                             새로운 지식을 빠르게 습득하고 상황에 맞게 적응할 수 있는 항상 성장해 나갈 준비가 되어있는<br/>
-                            '적응력'이 뛰어난 개발자입니다.
+                            '성장'하는 개발자 조정현 입니다.
                         </Fade>
                     </TweenOne>
                 </div>
@@ -50,23 +50,23 @@ function Demo() {
                     <Fade>
                         c/c++
                         <div key="0" className="demo-content" >
-                            <Bar num="30"/>
+                            <Bar num="90"/>
                         </div>
                         Node.js
                         <div key="0" className="demo-content" >
-                            <Bar num="50"/>
+                            <Bar num="70"/>
                         </div>
                         Java
                         <div key="0" className="demo-content" >
-                            <Bar num="50"/>
+                            <Bar num="60"/>
                         </div>
                         JavaScript(ES6)
                         <div key="0" className="demo-content" >
-                            <Bar num="50"/>
+                            <Bar num="60"/>
                         </div>
                         React.js
                         <div key="0" className="demo-content" >
-                            <Bar num="50"/>
+                            <Bar num="30"/>
                         </div>
                     </Fade>
                 </TweenOne>
@@ -88,9 +88,7 @@ function Demo() {
                     <p>프로젝트</p>
                 </div>
             </TweenOne>
-                <TweenOne className="tween-one" key="4" animation={{ opacity: 1 }}>
                     <Photo/>
-                </TweenOne>
             </QueueAnim>
         </ScrollOverPack>
 
