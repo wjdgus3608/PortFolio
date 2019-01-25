@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/PortFolio/static/css/main.a1f7a33a.chunk.css"
   },
   {
-    "revision": "fe1bed738ba49f9d0af4a6570c3698bc",
-    "url": "/PortFolio/static/media/tests.fe1bed73.jpg"
+    "revision": "35c68035c2502c1ffc2947f220420deb",
+    "url": "/PortFolio/static/media/page1.35c68035.jpg"
   },
   {
     "revision": "5d47f6d173b1ee7aeee0",
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "/PortFolio/static/media/face.c78ff699.jpg"
   },
   {
-    "revision": "35c68035c2502c1ffc2947f220420deb",
-    "url": "/PortFolio/static/media/page1.35c68035.jpg"
+    "revision": "fe1bed738ba49f9d0af4a6570c3698bc",
+    "url": "/PortFolio/static/media/tests.fe1bed73.jpg"
   },
   {
     "revision": "5d47f6d173b1ee7aeee0",
