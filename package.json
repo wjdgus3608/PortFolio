@@ -2,6 +2,7 @@
   "name": "port",
   "version": "0.1.0",
   "private": true,
+  "hompage": "https://wjdgus3608.github.io/PortFolio/",
   "dependencies": {
     "animejs": "^3.0.0",
     "react": "^16.7.0",
@@ -18,6 +19,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

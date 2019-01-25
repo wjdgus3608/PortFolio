@@ -60,7 +60,7 @@ function Demo() {
                         <div key="0" className="demo-content" >
                             <Bar num="60"/>
                         </div>
-                        JavaScript(ES6)
+                        JavaScript (ES6)
                         <div key="0" className="demo-content" >
                             <Bar num="60"/>
                         </div>

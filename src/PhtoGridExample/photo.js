@@ -124,7 +124,7 @@ class PhotoGrid extends Component {
                                         {data[focused].title}
                                     </p>
                                     <p data-fade-in>
-                                        {data[focused].des}
+                                        &nbsp;&nbsp;{data[focused].des}
                                     </p>
                                     <br/>
                                     <p data-fade-in>
