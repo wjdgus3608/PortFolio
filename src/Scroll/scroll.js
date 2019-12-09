@@ -52,23 +52,27 @@ function Demo() {
                     <Fade>
                         c/c++
                         <div key="0" className="demo-content" >
-                            <Bar num="90"/>
-                        </div>
-                        Node.js
-                        <div key="0" className="demo-content" >
                             <Bar num="70"/>
                         </div>
                         Java
                         <div key="0" className="demo-content" >
-                            <Bar num="60"/>
+                            <Bar num="70"/>
                         </div>
                         JavaScript (ES6)
                         <div key="0" className="demo-content" >
                             <Bar num="60"/>
                         </div>
+                        Node.js
+                        <div key="0" className="demo-content" >
+                            <Bar num="60"/>
+                        </div>
                         React.js
                         <div key="0" className="demo-content" >
-                            <Bar num="30"/>
+                            <Bar num="40"/>
+                        </div>
+                        TypeScript
+                        <div key="0" className="demo-content" >
+                            <Bar num="20"/>
                         </div>
                     </Fade>
                 </TweenOne>

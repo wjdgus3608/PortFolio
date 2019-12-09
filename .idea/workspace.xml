@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="742857ad-e0be-4e4b-8354-e01730e10265" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PhtoGridExample/assets/img11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhtoGridExample/assets/img12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhtoGridExample/assets/img13.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PhtoGridExample/photo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/PhtoGridExample/photo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TimeLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/TimeLine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scroll/assets/scroll.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scroll/assets/scroll.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,39 +15,10 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>simple</find>
-      <find>pack-page</find>
-      <find>title</find>
-      <find>page0</find>
-      <find>home</find>
-      <find>first</find>
-      <find>tween</find>
-      <find>page</find>
-      <find>photoGridImg</find>
-      <find>photoGridSquare</find>
-      <find>photoGrid</find>
-      <find>photoGridSquareExpanded</find>
-      <find>photoGridFocused</find>
-      <find>photoGridContentContainer</find>
-      <find>photoGridLead</find>
-      <find>page1</find>
-      <find>demo-content</find>
-      <find>tween-one</find>
-      <find>page2</find>
-      <find>page3</find>
-      <find>page4</find>
-      <find>photoHeading</find>
-      <find>page-description</find>
-      <find>font-size</find>
-      <find>page-title</find>
-      <find>home-title</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="1UjhYs94MNwJgHY7OifwS2c4HGM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -63,11 +36,11 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/PhtoGridExample/assets" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Scroll" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/PhtoGridExample/assets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -101,10 +74,24 @@
       <workItem from="1548339444080" duration="12369000" />
       <workItem from="1548395357166" duration="11734000" />
       <workItem from="1548414642958" duration="1623000" />
+      <workItem from="1575875963486" duration="1078000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

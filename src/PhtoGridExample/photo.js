@@ -15,6 +15,9 @@ import img7 from './assets/cart2.jpg'
 import img8 from './assets/cart3.jpg'
 import img9 from './assets/msa.jpg'
 import img10 from './assets/hyeoncard.jpg'
+import img11 from './assets/img11.png'
+import img12 from './assets/img12.png'
+import img13 from './assets/img13.png'
 const data = [
     { img: img1, title: '기타 프로젝트',type:'Used - WinApi',des:'WinApi를 이용하여 모바일 환경에서만 존재하던 기타 연주 어플리케이션을 컴퓨터 환경에서 구현하였던 개발자로서 첫걸음이었습니다.' },
     { img: img2, title: 'DBLP 프로젝트',type:'Used - C#, C++',des:'DBLP 웹사이트에서 논문과 논문 저자들의 데이터를 실시간으로 연동하여, 공동 저술 관계를 그래프로 시각화하여 나타내는 데에 목표를 둔 프로젝트이며, 데이터 중에서 가장 공동 저술 횟수가 많은 저자의 데이터를 Top-K 만큼 출력하는 기능, 공동 저술을 원하는 사용자끼리 연결해주는 공동 저자 매칭 시스템을 제공하는 프로젝트를 구현하였습니다.' },
@@ -25,7 +28,10 @@ const data = [
     { img: img7, title: '자율주행 카트 영상인식2',type:'Used - Python, Open-CV',des:'다음으로, 각 노드는 하나의 지역으로 설정하고 지역의 해당 정보를 가지도록 설계하였고, 기준이 되는 Reference Frame 또한 부여하였습니다. 이 그래프를 통해서 카트가 인식할 수 있는 맵을 가지게 하였습니다.' },
     { img: img8, title: '자율주행 카트 영상인식3',type:'Used - Python, Open-CV',des:'그 다음, OPEN-CV의 Feature Matching 알고리즘의 한 종류인 ORB방식을 사용하여  미리 부여된 맵상의 모든 Reference Frame과 라즈베리 카메라의 실시간 영상을 비교하는 과정을 거쳤습니다. 그 다음, 사전에 부여된 모든 Frame과 현재의 카메라로 보이는 영상을 비교하여 도출된 결과값을 정규화 과정을 거침으로써, 영상을 통해 위치를 인식하고 주행경로를 설정하는 프로젝트를 성공적으로 마무리 하였습니다. ' },
     { img: img9, title: '진행중 프로젝트',type:'Used - Node.js, Docker ...', des:'개발자 커뮤니티 개발을 주제로 하는 프로젝트를 진행중이며, MSA 구조를 기반으로 설계를 하여 Git과 Jenkins를 이용한 DevOps를 추구하고 있으며, Docker와 API Gateway를 이용해 서비스를 이미지 형태로 개발 및 배포 하는 구조로 설계하고 개발을 진행중입니다.' },
-    {img: img10, title: '현대카드 개인화 지도 앱 프로젝트',type:'Used - Android Studio(Java), express.js, RoomDB', des:'현대카드에서 진행한 프로젝트이며 거래데이터를 기반으로 맛집을 탐색하는 개인화 지도 앱을 만드는 프로젝트를 진행하였습니다.'}
+    {img: img10, title: '현대카드 개인화 지도 앱 프로젝트',type:'Used - Android Studio(Java), express.js, RoomDB', des:'현대카드에서 진행한 프로젝트이며 거래데이터를 기반으로 맛집을 탐색하는 개인화 지도 앱을 만드는 프로젝트를 진행하였습니다.'},
+    {img: img11, title: '프로그래머스 앱 개발챌린지(윈터코딩)',type:'Used - Android Studio(Java)', des:'프로그래머스에서 진행한 윈터 코딩 챌린지에 참여하여 시간표 안드로이드 앱을 성공적으로 제작하였습니다.'},
+    {img: img12, title: '프로그래머스 웹 개발챌린지(당근마켓)',type:'Used - Docker, React.js, TypeScript, Express.js, MySQL', des:'프로그래머스에서 진행한 당근마켓 웹개발 챌린지에 참여하여 당근마켓 프론트 엔트 웹을 제작하였습니다.'},
+    {img: img13, title: '크롤링 프로그램 개발(외주 프로젝트)',type:'Used - Python, Selenium, BeautifulSoup4', des:'외주 프로젝트로 진행한 프로젝트이며 헬스장 정보를 크롤링하여 데이터 입력을 자동화 하는 크롤링 시스템을 성공적으로 개발하였습니다.'}
 ]
 
 class PhotoGrid extends Component {
