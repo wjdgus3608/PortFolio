@@ -73,6 +73,12 @@ return(
         >
             <h4 className="vertical-timeline-element-subtitle">경희대학교 졸업 (2019.8)</h4>
         </VerticalTimelineElement>
+        <VerticalTimelineElement
+            className="vertical-timeline-element--education"
+            iconStyle={{ background: 'rgb(16, 204, 82)', color: '#fff' }}
+        >
+            <h4 className="vertical-timeline-element-subtitle">(주)인디펜던트 개발자 (2019.9 - 2019.12)</h4>
+        </VerticalTimelineElement>
     </VerticalTimeline>
 )
 }

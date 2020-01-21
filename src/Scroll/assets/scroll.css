@@ -125,14 +125,14 @@ p {
 /*  background-color: #848484;*/
   background-image:url("./page1.jpg");
   background-size: 100%, 200vh;
-  height: 140vh;
+  height: 160vh;
   width:100%;
 }
 .page2 {
   /*background-color: #72ADA1  ;*/
   background-image:url("./tests.jpg");
   background-size: 100% 500vw;
-  height: 600vh;
+  height: 650vh;
   width:100%;
 }
 .page3 {

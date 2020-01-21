@@ -30,6 +30,8 @@ function Demo() {
                             한 분야의 특기만을 내세울수 있는 '자신감'이 아닌 '부족함'에서 오는 배움의 자세로,<br/>
                             새로운 지식을 빠르게 습득하고 상황에 맞게 적응할 수 있는 항상 성장해 나갈 준비가 되어있는<br/>
                             '성장'하는 개발자 조정현 입니다.
+                            <br/><br/>
+                            Git Hub : <a href="https://github.com/wjdgus3608">https://github.com/wjdgus3608</a>
                         </Fade>
                     </TweenOne>
                 </div>
@@ -52,25 +54,29 @@ function Demo() {
                     <Fade>
                         c/c++
                         <div key="0" className="demo-content" >
-                            <Bar num="70"/>
+                            <Bar num="60"/>
                         </div>
                         Java
                         <div key="0" className="demo-content" >
-                            <Bar num="70"/>
+                            <Bar num="60"/>
                         </div>
                         JavaScript (ES6)
                         <div key="0" className="demo-content" >
-                            <Bar num="60"/>
+                            <Bar num="50"/>
                         </div>
                         Node.js
                         <div key="0" className="demo-content" >
-                            <Bar num="60"/>
+                            <Bar num="50"/>
                         </div>
                         React.js
                         <div key="0" className="demo-content" >
                             <Bar num="40"/>
                         </div>
                         TypeScript
+                        <div key="0" className="demo-content" >
+                            <Bar num="20"/>
+                        </div>
+                        Kotlin
                         <div key="0" className="demo-content" >
                             <Bar num="20"/>
                         </div>
