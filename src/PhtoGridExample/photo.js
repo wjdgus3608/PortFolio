@@ -20,6 +20,7 @@ import img12 from './assets/img12.png'
 import img13 from './assets/img13.png'
 import img14 from './assets/플랫팜 사진.png'
 import img15 from './assets/화해앱.png'
+import img16 from './assets/메모앱.png'
 const data = [
     { img: img1, title: '기타 프로젝트',type:'Used - WinApi',des:'WinApi를 이용하여 모바일 환경에서만 존재하던 기타 연주 어플리케이션을 컴퓨터 환경에서 구현하였던 개발자로서 첫걸음이었습니다.' },
     { img: img2, title: 'DBLP 프로젝트',type:'Used - C#, C++',des:'DBLP 웹사이트에서 논문과 논문 저자들의 데이터를 실시간으로 연동하여, 공동 저술 관계를 그래프로 시각화하여 나타내는 데에 목표를 둔 프로젝트이며, 데이터 중에서 가장 공동 저술 횟수가 많은 저자의 데이터를 Top-K 만큼 출력하는 기능, 공동 저술을 원하는 사용자끼리 연결해주는 공동 저자 매칭 시스템을 제공하는 프로젝트를 구현하였습니다.' },
@@ -35,7 +36,8 @@ const data = [
     {img: img12, title: '프로그래머스 웹 개발챌린지(당근마켓)',type:'Used - Docker, React.js, TypeScript, Express.js, MySQL', des:'프로그래머스에서 진행한 당근마켓 웹개발 챌린지에 참여하여 당근마켓 프론트 엔트 웹을 제작하였습니다.'},
     {img: img13, title: '크롤링 프로그램 개발(외주 프로젝트)',type:'Used - Python, Selenium, BeautifulSoup4', des:'외주 프로젝트로 진행한 프로젝트이며 헬스장 정보를 크롤링하여 데이터 입력을 자동화 하는 크롤링 시스템을 성공적으로 개발하였습니다.'},
     {img: img14, title: '디비 업데이트 프로젝트',type:'Used - Android Studio(Java), SQLite', des:'(주)플랫팜 개발 과제로 진행한 프로젝트이며, 원격 디비를 효과적으로 로컬디비에 업데이트 하는 알고리즘을 구현하는 과제였습니다. 저는 기존 로컬디비 인스턴스를 바탕으로 새로 업데이트 된 디비만 업데이트 하고 캐싱하는 방식을 사용하여 효율적인 업데이트를 하도록 개발하였습니다.'},
-    {img: img15, title: '프로그래머스 앱 개발챌린지(버드뷰)',type:'Used - Android Studio(Kotlin)', des:'코틀린으로 개발한 첫 프로젝트이며, 과제에서 주어진 프로토타입과 동일하게 구성함은 물론, 애니메이션, 데이터 통신 및 캐싱 또한 고려하여 빠르고 반응성 좋은 앱을 만들었습니다.'}
+    {img: img15, title: '프로그래머스 앱 개발챌린지(버드뷰)',type:'Used - Android Studio(Kotlin)', des:'코틀린으로 개발한 첫 프로젝트이며, 과제에서 주어진 프로토타입과 동일하게 구성함은 물론, 애니메이션, 데이터 통신 및 캐싱 또한 고려하여 빠르고 반응성 좋은 앱을 만들었습니다.'},
+    {img: img16, title: '프로그래머스 앱 개발챌린지(라인)',type:'Used - Android Studio(Kotlin), ACC(LiveData, Lifecycles, RoomDB) 구조', des:'MVVM 디자인 패턴을 기반으로 진행하였습니다. 챌린지의 주 목표인 메모에 카메라, 앨범, URL을 통한 이미지 첨부 기능을 가진 메모 앱을 성공적으로 구현하였습니다.'}
 ]
 
 class PhotoGrid extends Component {

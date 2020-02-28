@@ -60,23 +60,23 @@ function Demo() {
                         <div key="0" className="demo-content" >
                             <Bar num="60"/>
                         </div>
-                        JavaScript (ES6)
-                        <div key="0" className="demo-content" >
-                            <Bar num="50"/>
-                        </div>
-                        Node.js
-                        <div key="0" className="demo-content" >
-                            <Bar num="50"/>
-                        </div>
-                        React.js
+                        Kotlin
                         <div key="0" className="demo-content" >
                             <Bar num="40"/>
                         </div>
-                        TypeScript
+                        JavaScript (ES6)
                         <div key="0" className="demo-content" >
-                            <Bar num="20"/>
+                            <Bar num="40"/>
                         </div>
-                        Kotlin
+                        Node.js
+                        <div key="0" className="demo-content" >
+                            <Bar num="30"/>
+                        </div>
+                        React.js
+                        <div key="0" className="demo-content" >
+                            <Bar num="30"/>
+                        </div>
+                        TypeScript
                         <div key="0" className="demo-content" >
                             <Bar num="20"/>
                         </div>
