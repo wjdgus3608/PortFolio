@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="742857ad-e0be-4e4b-8354-e01730e10265" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PhtoGridExample/assets/DBLP 프로젝트.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PhtoGridExample/assets/플랫팜 사진.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PhtoGridExample/photo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/PhtoGridExample/photo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scroll/assets/scroll.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scroll/assets/scroll.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scroll/scroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scroll/scroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TimeLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/TimeLine.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,11 +37,11 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Scroll" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/PhtoGridExample/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Scroll" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -72,7 +77,8 @@
       <workItem from="1548414642958" duration="1623000" />
       <workItem from="1575875963486" duration="1757000" />
       <workItem from="1579586570866" duration="2041000" />
-      <workItem from="1582870380811" duration="332000" />
+      <workItem from="1582870380811" duration="782000" />
+      <workItem from="1586160241003" duration="2027000" />
     </task>
     <servers />
   </component>

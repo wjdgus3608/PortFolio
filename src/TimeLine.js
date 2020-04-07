@@ -44,27 +44,6 @@ return(
             className="vertical-timeline-element--education"
             iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
         >
-            <h4 className="vertical-timeline-element-subtitle">졸업연구 진행 (2018 - 2019)</h4>
-            <p>
-                - 데이터 거래용 코인개발
-            </p>
-            <p>
-                - 클라우드 기반 자율주행 카트
-            </p>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
-            className="vertical-timeline-element--education"
-            iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-        >
-            <h4 className="vertical-timeline-element-subtitle">커뮤니티 프로젝트 진행 (2019.1 - 2019.2)</h4>
-            <p>
-                - 개발자를 위한 커뮤니티 개발 프로젝트 진행
-            </p>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
-            className="vertical-timeline-element--education"
-            iconStyle={{ background: 'rgb(16, 204, 82)', color: '#fff' }}
-        >
             <h4 className="vertical-timeline-element-subtitle">현대카드 클라이언트 팀 개발자 (2019.6 - 2019.8)</h4>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -75,7 +54,7 @@ return(
         </VerticalTimelineElement>
         <VerticalTimelineElement
             className="vertical-timeline-element--education"
-            iconStyle={{ background: 'rgb(16, 204, 82)', color: '#fff' }}
+            iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
         >
             <h4 className="vertical-timeline-element-subtitle">(주)인디펜던트 개발자 (2019.9 - 2019.12)</h4>
         </VerticalTimelineElement>

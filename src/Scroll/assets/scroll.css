@@ -138,7 +138,7 @@ p {
 .page3 {
   /*  background-color: #19436E;*/
   background-image:url("./page1.jpg");
-  background-size: 100% 250vh;
+  background-size: 100% 200vh;
   height: 250vh;
   width:100%;
 }

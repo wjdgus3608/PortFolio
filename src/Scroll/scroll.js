@@ -52,13 +52,13 @@ function Demo() {
             <QueueAnim key="1">
                 <TweenOne className="tween-one" key="2" animation={{ opacity: 1 }}>
                     <Fade>
-                        c/c++
-                        <div key="0" className="demo-content" >
-                            <Bar num="60"/>
-                        </div>
                         Java
                         <div key="0" className="demo-content" >
                             <Bar num="60"/>
+                        </div>
+                        c/c++
+                        <div key="0" className="demo-content" >
+                            <Bar num="50"/>
                         </div>
                         Kotlin
                         <div key="0" className="demo-content" >
